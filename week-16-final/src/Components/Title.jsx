@@ -3,8 +3,8 @@
 export default function Title() {
 
     return (
-        <div>
-            <h1>Hello</h1>
+        <div className="page-title">
+            <h1>Average Star Wars Fanpage</h1>
         </div>
     )
 }

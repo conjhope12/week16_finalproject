@@ -12,6 +12,7 @@ import Home from './Pages/Home'
 import Jedi from './Pages/Jedi'
 import Sith from './Pages/Sith'
 import Footer from './Components/Footer'
+import Jediform from './Components/Jediform'
 
 const Dashboard = () => {
   return (
@@ -36,6 +37,7 @@ const router = createBrowserRouter([
       {
         path: "/jedi",
         element: <Jedi />,
+        element: <Jediform />,
       },
       {
         path: "/sith",
@@ -56,9 +58,11 @@ const router = createBrowserRouter([
 function App() {
 
   return (
-    <div>
-      <RouterProvider router = {router}/>
-    </div>
+  
+      <div>
+        <RouterProvider router = {router}/>
+      </div>
+    
   )
 }
 
