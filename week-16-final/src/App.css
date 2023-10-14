@@ -45,12 +45,155 @@ body {
     top: 545px;
 }
 
-/* .page-container {
+.img-home-div {
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, .5);
     display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
 }
 
-.conent-wrap {
-    flex: 1;
-} */
+.alert-btn {
+    text-align: center;
+    margin-left: 10rem;
+    margin-right:10rem;
+    margin-top: 1em;
+}
+
+.cardsss-title{
+    text-align: center;
+    color: #ffffff;
+    background-color: darkmagenta;
+    margin-left: 10rem;
+    margin-right:10rem;
+    margin-top: 1em;
+    padding: 1rem 1rem;
+    border-radius: 1rem;
+}
+
+.cardsss-section {
+    color: #ffffff;
+    background-color: rgba(128, 128, 128, 0.445);
+    margin-left: 1rem;
+    margin-right:1rem;
+    margin-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.cardsss-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer-cardsss {
+    color: #ffffff;
+    background-color: rgba(128, 128, 128, 0.445);
+}
+
+.jedi-post-title {
+    text-align: center;
+    color: #ffffff;
+    background-color: darkgreen;
+    margin-left: 10rem;
+    margin-right:10rem;
+    margin-top: 1em;
+    padding: 1rem 1rem;
+    border-radius: 1rem;
+}
+
+.jediContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2em;
+    border: 2px solid #ffffff ;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+}
+
+.jedi-update-title {
+    text-align: center;
+    color: #ffffff;
+    background-color: darkgreen;
+    margin-left: 10rem;
+    margin-right:10rem;
+    margin-top: 1em;
+    padding: 1rem 1rem;
+    border-radius: 1rem;
+}
+
+.jedi-input-post{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.jedi-input-label-post {
+    text-align: center;
+}
+
+.jedi-btn-post {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.jedi-delete {
+    border: 2px solid #ffffff;
+    padding: 3px;
+    margin-left: 1rem;
+}
+
+.jedi-form-update {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sith-page-title{
+    text-align: center;
+    background-color: darkred;
+    padding: 1rem 1rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 10rem;
+    margin-right:10rem;
+    margin-top: 1em;
+}
+
+.sith-page-form-title {
+    text-align: center;
+}
+
+.sith-page-form-labels {
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.sith-page-form-input-name {
+    margin-right:30rem;
+}
+
+.sith-page-form-inputs {
+    margin-right:30rem;
+    justify-content: space-around;
+}
+
+.sith-submit-btn {
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+
+
+

@@ -1,7 +1,10 @@
 {
-  "profile": {
-    "name": "Darth Maul",
-    "lightsaberColor": "red",
-    "favForceAbility": "saber throw"
-  }
+  "jedis": [
+    {
+      "name": "Luke",
+      "lightSaberColor": "Green",
+      "favForceAbility": "Force push",
+      "id": 2
+    }
+  ]
 }
