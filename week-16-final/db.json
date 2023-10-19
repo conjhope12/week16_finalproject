@@ -1,10 +1,10 @@
 {
   "jedis": [
     {
-      "name": "Luke",
-      "lightSaberColor": "Green",
-      "favForceAbility": "Force push",
-      "id": 2
+      "name": "Cool Yoda",
+      "lightSaberColor": "Greeeeeeeen",
+      "favForceAbility": "Force jump",
+      "id": 3
     }
   ]
 }
